@@ -1,0 +1,44 @@
+* {
+    margin: 20px;
+    color: blue;
+    background-color: orange;
+}
+.container{
+    text-align: center;
+}
+
+.ip {
+    margin: 100px;
+    display:flex;
+    justify-content: center;
+}
+
+.op {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.res {
+    margin: 10px;
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+}
+
+#dt {
+    font-size: medium;
+    color: rgb(35, 35, 35);
+    background-color: rgb(220, 220, 220);
+}
+
+#submit {
+    font-size: medium;
+    color: orange;
+    background-color: blue;
+}
+
+#Reset {
+    font-size: medium;
+    color: yellow;
+    background-color: blueviolet;
+}
